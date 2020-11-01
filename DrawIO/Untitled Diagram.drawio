@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T09:41:35.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="lh-84ASIeBTBu6P_HbsJ" version="13.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-01T13:39:09.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="oMNjiEphdn7jQqQYVsu4" version="13.8.8" type="github">
   <diagram id="KSNdyoD9CJhGDInZiR0q" name="Page-1">
-    <mxGraphModel dx="1550" dy="868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,95 +22,92 @@
         <mxCell id="_sOLBBAnQOJj8jyo4fsQ-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="18" y="104" width="794" height="247" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-1" value="故事名称输入框" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JLEJkPaVuerRpg4LAD68-1" value="故事名称输入框" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="135.5" y="31" width="398" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-2" value="搜索按钮" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JLEJkPaVuerRpg4LAD68-2" value="搜索按钮" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="677.5" y="34.5" width="52" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-3" value="故事列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JLEJkPaVuerRpg4LAD68-3" value="故事列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="92" y="217" width="591" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1" y="424" width="826" height="368" as="geometry" />
+        <mxCell id="JLEJkPaVuerRpg4LAD68-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1" y="473" width="826" height="368" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8" y="431" width="813" height="78" as="geometry" />
+        <mxCell id="JLEJkPaVuerRpg4LAD68-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8" y="480" width="813" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8" y="521" width="813" height="260" as="geometry" />
+        <mxCell id="JLEJkPaVuerRpg4LAD68-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="8" y="570" width="813" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="19" y="528" width="794" height="247" as="geometry" />
+        <mxCell id="JLEJkPaVuerRpg4LAD68-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="19" y="577" width="794" height="247" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-12" value="所选择的故事的测试用例表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="101" y="634" width="595" height="97" as="geometry" />
+        <mxCell id="JLEJkPaVuerRpg4LAD68-12" value="所选择的故事的测试用例表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="101" y="683" width="595" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-13" value="测试：录入测试用例&lt;br&gt;开发：上传测试结果图片" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="92" y="858" width="534" height="203" as="geometry" />
+        <mxCell id="JLEJkPaVuerRpg4LAD68-15" value="不造放什么，先空着吧" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="159" y="497" width="443" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-15" value="不造放什么，先空着吧" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="159" y="448" width="443" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-16" value="各个列（部分列提供筛选）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLEJkPaVuerRpg4LAD68-16" value="各个列（部分列提供筛选）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="39" y="109" width="746" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLEJkPaVuerRpg4LAD68-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="39" y="148" width="750" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-17" value="选择按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLEJkPaVuerRpg4LAD68-17" value="选择按钮" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="711" y="153" width="62" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-19" value="一行 数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JLEJkPaVuerRpg4LAD68-19" value="一行 数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="67" y="155.5" width="636" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-20" value="各个列（部分列提供筛选）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="43" y="534" width="746" height="34" as="geometry" />
+        <mxCell id="JLEJkPaVuerRpg4LAD68-20" value="各个列（部分列提供筛选）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="43" y="583" width="746" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="41" y="580" width="750" height="42" as="geometry" />
+        <mxCell id="JLEJkPaVuerRpg4LAD68-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="41" y="629" width="750" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-22" value="修改按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="713" y="585" width="62" height="28" as="geometry" />
+        <mxCell id="JLEJkPaVuerRpg4LAD68-22" value="修改按钮" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="713" y="634" width="62" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-23" value="一行 数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="69" y="587.5" width="636" height="23" as="geometry" />
+        <mxCell id="JLEJkPaVuerRpg4LAD68-23" value="一行 数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="69" y="636.5" width="636" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-24" value="删除按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="641" y="585" width="62" height="28" as="geometry" />
+        <mxCell id="JLEJkPaVuerRpg4LAD68-24" value="删除按钮" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="641" y="634" width="62" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-25" value="新增按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="717" y="537" width="62" height="28" as="geometry" />
+        <mxCell id="JLEJkPaVuerRpg4LAD68-25" value="新增按钮" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="717" y="586" width="62" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLEJkPaVuerRpg4LAD68-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="39" y="295" width="741" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-27" value="导出Excel按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLEJkPaVuerRpg4LAD68-27" value="导出Excel按钮" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="41" y="296" width="91" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-28" value="分页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLEJkPaVuerRpg4LAD68-28" value="分页" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="653" y="296" width="127" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="39" y="722" width="741" height="40" as="geometry" />
+        <mxCell id="JLEJkPaVuerRpg4LAD68-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="39" y="771" width="741" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-30" value="导出Excel按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="41" y="723" width="91" height="38" as="geometry" />
+        <mxCell id="JLEJkPaVuerRpg4LAD68-30" value="导出Excel按钮" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="41" y="772" width="91" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-31" value="分页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="653" y="723" width="127" height="38" as="geometry" />
+        <mxCell id="JLEJkPaVuerRpg4LAD68-31" value="分页" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="653" y="772" width="127" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-32" value="首页" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JLEJkPaVuerRpg4LAD68-32" value="首页" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="338" y="379" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-33" value="用例编辑页" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="332.5" y="815" width="105" height="30" as="geometry" />
+        <mxCell id="JLEJkPaVuerRpg4LAD68-33" value="用例编辑页" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="332.5" y="864" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-34" value="回首页&lt;br&gt;文字或logo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JLEJkPaVuerRpg4LAD68-34" value="回首页&lt;br&gt;文字或logo" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="11" y="14.5" width="67" height="64.5" as="geometry" />
         </mxCell>
-        <mxCell id="JLEJkPaVuerRpg4LAD68-35" value="回首页&lt;br&gt;文字或logo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="18" y="440.25" width="67" height="64.5" as="geometry" />
+        <mxCell id="JLEJkPaVuerRpg4LAD68-35" value="回首页&lt;br&gt;文字或logo" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="18" y="489.25" width="67" height="64.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
