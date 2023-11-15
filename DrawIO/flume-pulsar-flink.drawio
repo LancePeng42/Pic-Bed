@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T08:23:37.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xAyEOYgkxhRsZqkZP4MS" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T08:30:06.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oBviAzDymXxi0Qj8oQKW" version="22.1.0" type="github">
   <diagram name="第 1 页" id="56SS_imhiqbkVNjsHkNW">
-    <mxGraphModel dx="989" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,10 +60,10 @@
           <mxGeometry x="40.5" y="500" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gt6lZ0RUBfEhvGDMH1o4-15" value="Pulsar 集群&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="290" y="230" width="410" height="110" as="geometry" />
+          <mxGeometry x="290" y="230" width="500" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gt6lZ0RUBfEhvGDMH1o4-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://flink.apache.org/img/logo/png/100/flink_squirrel_100_color.png;" vertex="1" parent="1">
-          <mxGeometry x="315" y="420" width="70" height="70" as="geometry" />
+          <mxGeometry x="330" y="420" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gt6lZ0RUBfEhvGDMH1o4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-11" target="gt6lZ0RUBfEhvGDMH1o4-15">
           <mxGeometry relative="1" as="geometry">
@@ -95,8 +95,8 @@
         </mxCell>
         <mxCell id="gt6lZ0RUBfEhvGDMH1o4-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.58;exitY=-0.032;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500.9885057471265" y="452.5" as="sourcePoint" />
-            <mxPoint x="476.0000000000001" y="340" as="targetPoint" />
+            <mxPoint x="544.9885057471265" y="452.5" as="sourcePoint" />
+            <mxPoint x="520.0000000000001" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gt6lZ0RUBfEhvGDMH1o4-40" value="转换" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gt6lZ0RUBfEhvGDMH1o4-32">
@@ -105,12 +105,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gt6lZ0RUBfEhvGDMH1o4-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://flink.apache.org/img/logo/png/100/flink_squirrel_100_color.png;" vertex="1" parent="1">
-          <mxGeometry x="436" y="420" width="70" height="70" as="geometry" />
+          <mxGeometry x="480" y="420" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gt6lZ0RUBfEhvGDMH1o4-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.58;exitY=-0.032;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-35">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="614.9885057471265" y="452.5" as="sourcePoint" />
-            <mxPoint x="590.0000000000001" y="340" as="targetPoint" />
+            <mxPoint x="684.9885057471265" y="452.5" as="sourcePoint" />
+            <mxPoint x="660.0000000000001" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gt6lZ0RUBfEhvGDMH1o4-41" value="分析处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gt6lZ0RUBfEhvGDMH1o4-34">
@@ -119,13 +119,50 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gt6lZ0RUBfEhvGDMH1o4-35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://flink.apache.org/img/logo/png/100/flink_squirrel_100_color.png;" vertex="1" parent="1">
-          <mxGeometry x="550" y="420" width="70" height="70" as="geometry" />
+          <mxGeometry x="620" y="420" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-37" target="gt6lZ0RUBfEhvGDMH1o4-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="372" y="143" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gt6lZ0RUBfEhvGDMH1o4-37" value="原始数据" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pulsar.apache.org/img/logo-black.svg;" vertex="1" parent="1">
           <mxGeometry x="309" y="270" width="127" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-38" target="gt6lZ0RUBfEhvGDMH1o4-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="524" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gt6lZ0RUBfEhvGDMH1o4-38" value="标准数据" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pulsar.apache.org/img/logo-black.svg;" vertex="1" parent="1">
           <mxGeometry x="460" y="270" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-44" value="ClickHouse" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Clickhouse.png/220px-Clickhouse.png;" vertex="1" parent="1">
+          <mxGeometry x="790" y="98" width="93.84" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-45" target="gt6lZ0RUBfEhvGDMH1o4-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-45" value="结果数据" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pulsar.apache.org/img/logo-black.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="270" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-49" value="数据服务" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Environments.svg;" vertex="1" parent="1">
+          <mxGeometry x="960" y="111" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.026;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-44" target="gt6lZ0RUBfEhvGDMH1o4-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-51" value="告警服务" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Environments.svg;" vertex="1" parent="1">
+          <mxGeometry x="960" y="253" width="64" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
