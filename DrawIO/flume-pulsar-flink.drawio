@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T08:30:06.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oBviAzDymXxi0Qj8oQKW" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T08:33:26.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FpoSASNrIBYfT851kGJZ" version="22.1.0" type="github">
   <diagram name="第 1 页" id="56SS_imhiqbkVNjsHkNW">
-    <mxGraphModel dx="1195" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,13 +147,14 @@
         <mxCell id="gt6lZ0RUBfEhvGDMH1o4-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-45" target="gt6lZ0RUBfEhvGDMH1o4-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-45">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="285" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-45" target="gt6lZ0RUBfEhvGDMH1o4-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gt6lZ0RUBfEhvGDMH1o4-45" value="结果数据" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pulsar.apache.org/img/logo-black.svg;" vertex="1" parent="1">
           <mxGeometry x="610" y="270" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-49" target="gt6lZ0RUBfEhvGDMH1o4-107">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gt6lZ0RUBfEhvGDMH1o4-49" value="数据服务" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Environments.svg;" vertex="1" parent="1">
           <mxGeometry x="960" y="111" width="64" height="64" as="geometry" />
@@ -162,7 +163,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gt6lZ0RUBfEhvGDMH1o4-51" value="告警服务" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Environments.svg;" vertex="1" parent="1">
-          <mxGeometry x="960" y="253" width="64" height="64" as="geometry" />
+          <mxGeometry x="860" y="360" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-53" target="gt6lZ0RUBfEhvGDMH1o4-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-53" target="gt6lZ0RUBfEhvGDMH1o4-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-53" target="gt6lZ0RUBfEhvGDMH1o4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-53" value="Redis集群" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Cache_Redis.svg;" vertex="1" parent="1">
+          <mxGeometry x="483" y="559" width="64" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-57" target="gt6lZ0RUBfEhvGDMH1o4-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-57" value="管理端" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Environments.svg;" vertex="1" parent="1">
+          <mxGeometry x="700" y="620" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.524;entryY=1.113;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-57" target="gt6lZ0RUBfEhvGDMH1o4-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-60" value="MySQL" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="770" y="510" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-107" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png;" vertex="1" parent="1">
+          <mxGeometry x="951" y="258" width="82" height="82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
