@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T08:11:43.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="u5NQyZzEtngMEYEGLm36" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T08:23:37.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xAyEOYgkxhRsZqkZP4MS" version="22.1.0" type="github">
   <diagram name="第 1 页" id="56SS_imhiqbkVNjsHkNW">
-    <mxGraphModel dx="1195" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,17 +59,73 @@
         <mxCell id="gt6lZ0RUBfEhvGDMH1o4-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://flume.apache.org/_static/flume-logo.png;" vertex="1" parent="1">
           <mxGeometry x="40.5" y="500" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-15" value="Pulsar&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-15" value="Pulsar 集群&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="290" y="230" width="410" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-16" value="TopicA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="262.5" width="60" height="45" as="geometry" />
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://flink.apache.org/img/logo/png/100/flink_squirrel_100_color.png;" vertex="1" parent="1">
+          <mxGeometry x="315" y="420" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-18" value="TopicB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="262.5" width="60" height="45" as="geometry" />
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-11" target="gt6lZ0RUBfEhvGDMH1o4-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="195" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-19" value="TopicC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="260" width="60" height="45" as="geometry" />
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-26" value="传输日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gt6lZ0RUBfEhvGDMH1o4-23">
+          <mxGeometry x="-0.1069" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-12" target="gt6lZ0RUBfEhvGDMH1o4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-27" value="传输日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gt6lZ0RUBfEhvGDMH1o4-25">
+          <mxGeometry x="0.2323" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.148;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-22" target="gt6lZ0RUBfEhvGDMH1o4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-36" value="清洗" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gt6lZ0RUBfEhvGDMH1o4-28">
+          <mxGeometry x="0.1671" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.58;exitY=-0.032;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500.9885057471265" y="452.5" as="sourcePoint" />
+            <mxPoint x="476.0000000000001" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-40" value="转换" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gt6lZ0RUBfEhvGDMH1o4-32">
+          <mxGeometry x="0.0934" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://flink.apache.org/img/logo/png/100/flink_squirrel_100_color.png;" vertex="1" parent="1">
+          <mxGeometry x="436" y="420" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.58;exitY=-0.032;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="gt6lZ0RUBfEhvGDMH1o4-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="614.9885057471265" y="452.5" as="sourcePoint" />
+            <mxPoint x="590.0000000000001" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-41" value="分析处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gt6lZ0RUBfEhvGDMH1o4-34">
+          <mxGeometry x="0.1287" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://flink.apache.org/img/logo/png/100/flink_squirrel_100_color.png;" vertex="1" parent="1">
+          <mxGeometry x="550" y="420" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-37" value="原始数据" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pulsar.apache.org/img/logo-black.svg;" vertex="1" parent="1">
+          <mxGeometry x="309" y="270" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-38" value="标准数据" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pulsar.apache.org/img/logo-black.svg;" vertex="1" parent="1">
+          <mxGeometry x="460" y="270" width="127" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
