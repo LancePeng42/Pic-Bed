@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T08:33:26.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FpoSASNrIBYfT851kGJZ" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T08:34:11.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3e5S5BIa1gDh_PFAvefu" version="22.1.0" type="github">
   <diagram name="第 1 页" id="56SS_imhiqbkVNjsHkNW">
-    <mxGraphModel dx="989" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,7 +189,7 @@
         <mxCell id="gt6lZ0RUBfEhvGDMH1o4-60" value="MySQL" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" vertex="1" parent="1">
           <mxGeometry x="770" y="510" width="48" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-107" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png;" vertex="1" parent="1">
+        <mxCell id="gt6lZ0RUBfEhvGDMH1o4-107" value="Grafana" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png;" vertex="1" parent="1">
           <mxGeometry x="951" y="258" width="82" height="82" as="geometry" />
         </mxCell>
       </root>
